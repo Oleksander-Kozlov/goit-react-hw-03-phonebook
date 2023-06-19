@@ -1,4 +1,4 @@
-import { Input, Label } from '../ContactForm/ContactForm.styled';
+import { Input, Label } from '../ContactForm/ContactForm.styled.js';
 import PropTypes from 'prop-types';
 
 export const Filter = ({ value, filter }) => {

@@ -4,7 +4,7 @@ import {
   Input,
   Label,
   ButtonAddContacts,
-} from '../ContactForm/ContactForm.styled';
+} from '../ContactForm/ContactForm.styled.js';
 import PropTypes from 'prop-types';
 
 

@@ -1,4 +1,4 @@
-import { CotactItem, ButtonDelete } from '../ContactList/Contact.styled';
+import { CotactItem, ButtonDelete } from '../ContactList/Contact.styled.js';
 import PropTypes from 'prop-types';
 export const Contact = ({ name, number, onDeleteContact, id }) => {
   return (
